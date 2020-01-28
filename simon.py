@@ -1,1 +1,1 @@
-print("Tambov")
+print("Gorod")
